@@ -145,5 +145,16 @@
                 </Button>
             </StackPanel>
         </GroupBox>
+        <GroupBox Grid.Row="8">
+            <Button 
+                Padding="5">
+                <StackPanel
+                    Orientation="Horizontal">
+                    <Image />
+                    <TextBlock 
+                        Margin="5,0"> Help</TextBlock>
+                </StackPanel>
+            </Button>
+        </GroupBox>
     </Grid>
 </Window>
