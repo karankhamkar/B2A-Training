@@ -93,7 +93,7 @@ namespace WpfDemo {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfDemo;V1.0.0.0;component/functions/demo.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfDemo;component/functions/demo.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Functions\Demo.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
