@@ -75,35 +75,38 @@
                 </Label>
                 <StackPanel Margin="10,5">
                     <CheckBox IsThreeState="True"
-                              Name="cbAllFeatures"
-                              Checked="cbAllFeatures_CheckedChanged"
-                              Unchecked="cbAllFeatures_CheckedChanged">
+                              Name="cbAllFeatures">
+                        <!--Checked="cbAllFeatures_CheckedChanged"
+                              Unchecked="cbAllFeatures_CheckedChanged">-->
                         Enable All
                     </CheckBox>
                     <StackPanel Margin="20,5">
-                        <CheckBox Name="CbFeatureKaran"
-                                  Checked="cbFeature_CheckedChanged"
-                                  Unchecked="cbFeature_CheckedChanged">
+                        <CheckBox Name="CbFeatureKaran">
+                            <!--Checked="cbFeature_CheckedChanged"
+                                  Unchecked="cbFeature_CheckedChanged">-->
                             Enable Feature Karan
                         </CheckBox>
-                        <CheckBox Name="CbFeatureChotya"
-                                  Checked="cbFeature_CheckedChanged"
-                                  Unchecked="cbFeature_CheckedChanged">
+                        <CheckBox Name="CbFeatureChotya">
+                            <!--Checked="cbFeature_CheckedChanged"
+                                  Unchecked="cbFeature_CheckedChanged">-->
                             Enable Feature Chotya
                         </CheckBox>
-                        <CheckBox Name="CbFeaturePranit"
-                                  Checked="cbFeature_CheckedChanged"
-                                  Unchecked="cbFeature_CheckedChanged">
+                        <CheckBox Name="CbFeaturePranit">
+                            <!--Checked="cbFeature_CheckedChanged"
+                                  Unchecked="cbFeature_CheckedChanged">-->
                             Enable Feature Pranit
                         </CheckBox>
-                        <CheckBox Name="CbFeatureManu"
-                                  Checked="cbFeature_CheckedChanged"
-                                  Unchecked="cbFeature_CheckedChanged">
+                        <CheckBox Name="CbFeatureManu">
+                            <!--Checked="cbFeature_CheckedChanged"
+                                  Unchecked="cbFeature_CheckedChanged"-->
                             Enable Feature Manu
                         </CheckBox>
                     </StackPanel>
                 </StackPanel>
             </StackPanel>
+        </GroupBox>
+        <GroupBox Grid.Row="3">
+            
         </GroupBox>
     </Grid>
 </UserControl>
