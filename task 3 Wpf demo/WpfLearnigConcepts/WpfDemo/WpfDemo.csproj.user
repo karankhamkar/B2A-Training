@@ -10,15 +10,9 @@
     <Compile Update="Functions\Demo.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Functions\demo1.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="Functions\Demo.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="Functions\demo1.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">
