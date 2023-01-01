@@ -158,7 +158,6 @@ namespace WPFListBoxByMVVM.ViewModel
             allItems.Add(new TodoList() { Title = "Learn C#", Completion = 80 });
             allItems.Add(new TodoList() { Title = "Wash the car", Completion = 0 });
             allItems.Add(new TodoList() { Title = "Review WPF", Completion = 20 });
-            Name = "karan";
             _rand = new Random();
             _randName = new Random();
         }
