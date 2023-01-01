@@ -4,12 +4,6 @@
              xmlns:local="clr-namespace:WPFListBoxByMVVM"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-      
-
-            <!--<DataTemplate DataType="{x:Type viewmodel:ListBoxViewModel}">
-                <view:ListBoxView />
-            </DataTemplate>-->
             
-       
     </Application.Resources>
 </Application>

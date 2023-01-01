@@ -6,6 +6,7 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <DockPanel Margin="10">
+        <TextBox Text="{Binding Name}"/>
         <StackPanel DockPanel.Dock="Right"
                     Margin="10,0">
             <StackPanel.Resources>
@@ -17,13 +18,26 @@
             <TextBlock FontWeight="Bold"
                        FontSize="12"
                        Margin="0,0,0,10">ListBox Selection</TextBlock>
-            <Button Name="btnShowSelectedItem">Show Selected</Button>
-            <Button Name="btnSelectLast">Select Last</Button>
-            <Button Name="btnSelectNext">Select Next</Button>
-            <Button Name="btnSelectCSharp">Select C#</Button>
-            <Button Name="btnSelectAll">Select All</Button>
+            <Button Name="btnShowSelectedItem" 
+                    Command="{Binding ShowSelectedCommand}">Show Selected</Button>
+            <Button Name="btnSelectLast"
+                Command="{Binding SelectLastCommand}">
+                Select Last</Button>
+            <Button Name="btnSelectNext"
+                Command="{Binding SelectNextCommand}">
+                    Select Next</Button>
+            <Button Name="btnSelectCSharp"
+                Command="{Binding SelectSpecificCommand}">
+                    Select C#</Button>
+            <Button Name="btnSelectAll"
+                Command="{Binding SelectSpecificCommand}">
+                Select All</Button>
+            <Button Name="btnAddItem"
+                Command="{Binding AddItemCommand}">
+                Add Item</Button>
         </StackPanel>
         <ListBox ItemsSource="{Binding allItems}"
+                 SelectedItem="{Binding SelectedTodoList}"
                  HorizontalContentAlignment="Stretch"
                  SelectionMode="Extended">
             <ListBox.ItemTemplate>
