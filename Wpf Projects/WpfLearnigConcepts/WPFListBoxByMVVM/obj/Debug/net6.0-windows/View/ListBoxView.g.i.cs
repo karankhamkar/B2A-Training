@@ -100,7 +100,7 @@ namespace WPFListBoxByMVVM.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPFListBoxByMVVM;V1.0.0.0;component/view/listboxview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPFListBoxByMVVM;component/view/listboxview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\ListBoxView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

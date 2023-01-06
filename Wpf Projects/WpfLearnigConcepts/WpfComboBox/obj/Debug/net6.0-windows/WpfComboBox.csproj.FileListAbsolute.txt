@@ -19,3 +19,24 @@ C:\Training\B2A-Training\task 3 Wpf demo\WpfLearnigConcepts\WpfComboBox\obj\Debu
 C:\Training\B2A-Training\task 3 Wpf demo\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\WpfComboBox.pdb
 C:\Training\B2A-Training\task 3 Wpf demo\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\WpfComboBox.genruntimeconfig.cache
 C:\Training\B2A-Training\task 3 Wpf demo\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\ref\WpfComboBox.dll
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\bin\Debug\net6.0-windows\WpfComboBox.exe
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\bin\Debug\net6.0-windows\WpfComboBox.deps.json
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\bin\Debug\net6.0-windows\WpfComboBox.runtimeconfig.json
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\bin\Debug\net6.0-windows\WpfComboBox.dll
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\bin\Debug\net6.0-windows\WpfComboBox.pdb
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\WpfComboBox.csproj.AssemblyReference.cache
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\App.g.cs
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\WpfComboBox_MarkupCompile.cache
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\WpfComboBox_MarkupCompile.lref
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\WpfComboBox.g.resources
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\WpfComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\WpfComboBox.AssemblyInfoInputs.cache
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\WpfComboBox.AssemblyInfo.cs
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\WpfComboBox.csproj.CoreCompileInputs.cache
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\WpfComboBox.dll
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\refint\WpfComboBox.dll
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\WpfComboBox.pdb
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\WpfComboBox.genruntimeconfig.cache
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfComboBox\obj\Debug\net6.0-windows\ref\WpfComboBox.dll

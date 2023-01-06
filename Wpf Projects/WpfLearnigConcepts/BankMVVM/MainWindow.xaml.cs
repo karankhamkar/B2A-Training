@@ -23,6 +23,8 @@ namespace BankMVVM
         public MainWindow()
         {
             InitializeComponent();
+            MainViewModel mainViewModel = new MainViewModel();
+            this.DataContext = mainViewModel;
         }
     }
 }

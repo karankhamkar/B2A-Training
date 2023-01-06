@@ -85,7 +85,7 @@ namespace WpfComboBoxMVVM.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfComboBoxMVVM;V1.0.0.0;component/view/comboboxview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WpfComboBoxMVVM;component/view/comboboxview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\ComboBoxView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

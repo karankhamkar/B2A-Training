@@ -7,6 +7,93 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <GroupBox Grid.Row="0">
+            <StackPanel>
+                <TextBlock Text="B2A International Bank"
+                           Margin="10"
+                           FontSize="25"
+                           FontWeight="Bold"
+                           HorizontalAlignment="Center"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Grid.Row="1">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Row="0"
+                            Grid.Column="0">
+                    <TextBlock Text="Employee Name" FontSize="12"/>
+                    <TextBox Text="{Binding EmployeeName}"
+                                Width="200"
+                                Height="20"
+                                Margin="10"/>
+                </StackPanel>
+                <StackPanel Grid.Row="0"
+                            Grid.Column="1">
+                    <TextBlock Text="Amount" FontSize="12"/>
+                    <TextBox Text="{Binding Amount}"
+                            Width="200"
+                            Height="20"
+                            Margin="10"/>
+                </StackPanel>
+                <!--<StackPanel Grid.Row="0"
+                            Grid.Column="1">
+                    <TextBlock Text="Gender" FontSize="15"/>
+                    <ComboBox Width="194"
+                              Height="30"
+                              Margin="10">
+                        <ComboBoxItem Content="male"/>
+                        <ComboBoxItem Content="Female"/>
+                        <ComboBoxItem Content="Other"/>
+                    </ComboBox>
+                </StackPanel>-->
+                <StackPanel Grid.Row="0"
+                            Grid.Column="2">
+                    <TextBlock Text="Description" FontSize="12"/>
+                    <TextBox Text="{Binding Description}"
+                             Width="200"
+                             Height="20"
+                             Margin="10"/>
+                </StackPanel>
+                <StackPanel Grid.Row="1"
+                            Grid.Column="0">
+                    <TextBlock Text="City" FontSize="12"/>
+                    <TextBox Text="{Binding City}"
+                             Width="200"
+                             Height="20"
+                             Margin="10"/>
+                </StackPanel>
+                <StackPanel Grid.Row="2"
+                            Grid.Column="3">
+                    <Button Content="Add Emplyee"
+                            Command="{Binding AddEmployeeCommand}"
+                            HorizontalAlignment="Center"
+                            Width="200"
+                            Height="20"/>
+                </StackPanel>
+            </Grid>
+        </GroupBox>
+        <GroupBox Grid.Row="2">
+            <DataGrid ItemsSource="{Binding AccountDetails}"
+                      Height="200">
+                
+            </DataGrid>
+        </GroupBox>
     </Grid>
 </Window>
