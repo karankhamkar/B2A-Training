@@ -1,0 +1,15 @@
+C:\Training\B2A-Training\Programms\6_Jan\Operators\bin\Debug\net6.0\Operators.exe
+C:\Training\B2A-Training\Programms\6_Jan\Operators\bin\Debug\net6.0\Operators.deps.json
+C:\Training\B2A-Training\Programms\6_Jan\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+C:\Training\B2A-Training\Programms\6_Jan\Operators\bin\Debug\net6.0\Operators.dll
+C:\Training\B2A-Training\Programms\6_Jan\Operators\bin\Debug\net6.0\Operators.pdb
+C:\Training\B2A-Training\Programms\6_Jan\Operators\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
+C:\Training\B2A-Training\Programms\6_Jan\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\B2A-Training\Programms\6_Jan\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+C:\Training\B2A-Training\Programms\6_Jan\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+C:\Training\B2A-Training\Programms\6_Jan\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+C:\Training\B2A-Training\Programms\6_Jan\Operators\obj\Debug\net6.0\Operators.dll
+C:\Training\B2A-Training\Programms\6_Jan\Operators\obj\Debug\net6.0\refint\Operators.dll
+C:\Training\B2A-Training\Programms\6_Jan\Operators\obj\Debug\net6.0\Operators.pdb
+C:\Training\B2A-Training\Programms\6_Jan\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
+C:\Training\B2A-Training\Programms\6_Jan\Operators\obj\Debug\net6.0\ref\Operators.dll

@@ -1,0 +1,15 @@
+C:\Training\B2A-Training\Programms\5_Jan\ConsoleApp1\bin\Debug\net6.0\CovertIntToHexa.exe
+C:\Training\B2A-Training\Programms\5_Jan\ConsoleApp1\bin\Debug\net6.0\CovertIntToHexa.deps.json
+C:\Training\B2A-Training\Programms\5_Jan\ConsoleApp1\bin\Debug\net6.0\CovertIntToHexa.runtimeconfig.json
+C:\Training\B2A-Training\Programms\5_Jan\ConsoleApp1\bin\Debug\net6.0\CovertIntToHexa.dll
+C:\Training\B2A-Training\Programms\5_Jan\ConsoleApp1\bin\Debug\net6.0\CovertIntToHexa.pdb
+C:\Training\B2A-Training\Programms\5_Jan\ConsoleApp1\obj\Debug\net6.0\CovertIntToHexa.csproj.AssemblyReference.cache
+C:\Training\B2A-Training\Programms\5_Jan\ConsoleApp1\obj\Debug\net6.0\CovertIntToHexa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\B2A-Training\Programms\5_Jan\ConsoleApp1\obj\Debug\net6.0\CovertIntToHexa.AssemblyInfoInputs.cache
+C:\Training\B2A-Training\Programms\5_Jan\ConsoleApp1\obj\Debug\net6.0\CovertIntToHexa.AssemblyInfo.cs
+C:\Training\B2A-Training\Programms\5_Jan\ConsoleApp1\obj\Debug\net6.0\CovertIntToHexa.csproj.CoreCompileInputs.cache
+C:\Training\B2A-Training\Programms\5_Jan\ConsoleApp1\obj\Debug\net6.0\CovertIntToHexa.dll
+C:\Training\B2A-Training\Programms\5_Jan\ConsoleApp1\obj\Debug\net6.0\refint\CovertIntToHexa.dll
+C:\Training\B2A-Training\Programms\5_Jan\ConsoleApp1\obj\Debug\net6.0\CovertIntToHexa.pdb
+C:\Training\B2A-Training\Programms\5_Jan\ConsoleApp1\obj\Debug\net6.0\CovertIntToHexa.genruntimeconfig.cache
+C:\Training\B2A-Training\Programms\5_Jan\ConsoleApp1\obj\Debug\net6.0\ref\CovertIntToHexa.dll

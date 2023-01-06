@@ -13,3 +13,18 @@ C:\Training\B2A-Training\task 3 Wpf demo\Programms\HalpPyramidNum\obj\Debug\net6
 C:\Training\B2A-Training\task 3 Wpf demo\Programms\HalpPyramidNum\obj\Debug\net6.0\HalpPyramidNum.pdb
 C:\Training\B2A-Training\task 3 Wpf demo\Programms\HalpPyramidNum\obj\Debug\net6.0\HalpPyramidNum.genruntimeconfig.cache
 C:\Training\B2A-Training\task 3 Wpf demo\Programms\HalpPyramidNum\obj\Debug\net6.0\ref\HalpPyramidNum.dll
+C:\Training\B2A-Training\Programms\5_Jan\HalpPyramidNum\bin\Debug\net6.0\HalpPyramidNum.exe
+C:\Training\B2A-Training\Programms\5_Jan\HalpPyramidNum\bin\Debug\net6.0\HalpPyramidNum.deps.json
+C:\Training\B2A-Training\Programms\5_Jan\HalpPyramidNum\bin\Debug\net6.0\HalpPyramidNum.runtimeconfig.json
+C:\Training\B2A-Training\Programms\5_Jan\HalpPyramidNum\bin\Debug\net6.0\HalpPyramidNum.dll
+C:\Training\B2A-Training\Programms\5_Jan\HalpPyramidNum\bin\Debug\net6.0\HalpPyramidNum.pdb
+C:\Training\B2A-Training\Programms\5_Jan\HalpPyramidNum\obj\Debug\net6.0\HalpPyramidNum.csproj.AssemblyReference.cache
+C:\Training\B2A-Training\Programms\5_Jan\HalpPyramidNum\obj\Debug\net6.0\HalpPyramidNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\B2A-Training\Programms\5_Jan\HalpPyramidNum\obj\Debug\net6.0\HalpPyramidNum.AssemblyInfoInputs.cache
+C:\Training\B2A-Training\Programms\5_Jan\HalpPyramidNum\obj\Debug\net6.0\HalpPyramidNum.AssemblyInfo.cs
+C:\Training\B2A-Training\Programms\5_Jan\HalpPyramidNum\obj\Debug\net6.0\HalpPyramidNum.csproj.CoreCompileInputs.cache
+C:\Training\B2A-Training\Programms\5_Jan\HalpPyramidNum\obj\Debug\net6.0\HalpPyramidNum.dll
+C:\Training\B2A-Training\Programms\5_Jan\HalpPyramidNum\obj\Debug\net6.0\refint\HalpPyramidNum.dll
+C:\Training\B2A-Training\Programms\5_Jan\HalpPyramidNum\obj\Debug\net6.0\HalpPyramidNum.pdb
+C:\Training\B2A-Training\Programms\5_Jan\HalpPyramidNum\obj\Debug\net6.0\HalpPyramidNum.genruntimeconfig.cache
+C:\Training\B2A-Training\Programms\5_Jan\HalpPyramidNum\obj\Debug\net6.0\ref\HalpPyramidNum.dll

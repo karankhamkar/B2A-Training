@@ -1,0 +1,15 @@
+C:\Training\B2A-Training\Programms\6_Jan\ShiftOperator\bin\Debug\net6.0\ShiftOperator.exe
+C:\Training\B2A-Training\Programms\6_Jan\ShiftOperator\bin\Debug\net6.0\ShiftOperator.deps.json
+C:\Training\B2A-Training\Programms\6_Jan\ShiftOperator\bin\Debug\net6.0\ShiftOperator.runtimeconfig.json
+C:\Training\B2A-Training\Programms\6_Jan\ShiftOperator\bin\Debug\net6.0\ShiftOperator.dll
+C:\Training\B2A-Training\Programms\6_Jan\ShiftOperator\bin\Debug\net6.0\ShiftOperator.pdb
+C:\Training\B2A-Training\Programms\6_Jan\ShiftOperator\obj\Debug\net6.0\ShiftOperator.csproj.AssemblyReference.cache
+C:\Training\B2A-Training\Programms\6_Jan\ShiftOperator\obj\Debug\net6.0\ShiftOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\B2A-Training\Programms\6_Jan\ShiftOperator\obj\Debug\net6.0\ShiftOperator.AssemblyInfoInputs.cache
+C:\Training\B2A-Training\Programms\6_Jan\ShiftOperator\obj\Debug\net6.0\ShiftOperator.AssemblyInfo.cs
+C:\Training\B2A-Training\Programms\6_Jan\ShiftOperator\obj\Debug\net6.0\ShiftOperator.csproj.CoreCompileInputs.cache
+C:\Training\B2A-Training\Programms\6_Jan\ShiftOperator\obj\Debug\net6.0\ShiftOperator.dll
+C:\Training\B2A-Training\Programms\6_Jan\ShiftOperator\obj\Debug\net6.0\refint\ShiftOperator.dll
+C:\Training\B2A-Training\Programms\6_Jan\ShiftOperator\obj\Debug\net6.0\ShiftOperator.pdb
+C:\Training\B2A-Training\Programms\6_Jan\ShiftOperator\obj\Debug\net6.0\ShiftOperator.genruntimeconfig.cache
+C:\Training\B2A-Training\Programms\6_Jan\ShiftOperator\obj\Debug\net6.0\ref\ShiftOperator.dll
