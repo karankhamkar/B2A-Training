@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\HalpPyramidNum\\HalpPyramidNum.csproj": {}
+    "C:\\Training\\B2A-Training\\Programms\\5_Jan\\HalpPyramidNum\\HalpPyramidNum.csproj": {}
   },
   "projects": {
-    "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\HalpPyramidNum\\HalpPyramidNum.csproj": {
+    "C:\\Training\\B2A-Training\\Programms\\5_Jan\\HalpPyramidNum\\HalpPyramidNum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\HalpPyramidNum\\HalpPyramidNum.csproj",
+        "projectUniqueName": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\HalpPyramidNum\\HalpPyramidNum.csproj",
         "projectName": "HalpPyramidNum",
-        "projectPath": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\HalpPyramidNum\\HalpPyramidNum.csproj",
+        "projectPath": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\HalpPyramidNum\\HalpPyramidNum.csproj",
         "packagesPath": "C:\\Users\\Karan Khamkar\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\HalpPyramidNum\\obj\\",
+        "outputPath": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\HalpPyramidNum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karan Khamkar\\AppData\\Roaming\\NuGet\\NuGet.Config",

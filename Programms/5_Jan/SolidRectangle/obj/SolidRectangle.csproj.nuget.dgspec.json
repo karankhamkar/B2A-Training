@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\SolidRectangle\\SolidRectangle.csproj": {}
+    "C:\\Training\\B2A-Training\\Programms\\5_Jan\\SolidRectangle\\SolidRectangle.csproj": {}
   },
   "projects": {
-    "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\SolidRectangle\\SolidRectangle.csproj": {
+    "C:\\Training\\B2A-Training\\Programms\\5_Jan\\SolidRectangle\\SolidRectangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\SolidRectangle\\SolidRectangle.csproj",
+        "projectUniqueName": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\SolidRectangle\\SolidRectangle.csproj",
         "projectName": "SolidRectangle",
-        "projectPath": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\SolidRectangle\\SolidRectangle.csproj",
+        "projectPath": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\SolidRectangle\\SolidRectangle.csproj",
         "packagesPath": "C:\\Users\\Karan Khamkar\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\SolidRectangle\\obj\\",
+        "outputPath": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\SolidRectangle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karan Khamkar\\AppData\\Roaming\\NuGet\\NuGet.Config",

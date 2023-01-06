@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\HalfPyramid\\HalfPyramid.csproj",
+      "projectUniqueName": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\HalfPyramid\\HalfPyramid.csproj",
       "projectName": "HalfPyramid",
-      "projectPath": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\HalfPyramid\\HalfPyramid.csproj",
+      "projectPath": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\HalfPyramid\\HalfPyramid.csproj",
       "packagesPath": "C:\\Users\\Karan Khamkar\\.nuget\\packages\\",
-      "outputPath": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\HalfPyramid\\obj\\",
+      "outputPath": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\HalfPyramid\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Karan Khamkar\\AppData\\Roaming\\NuGet\\NuGet.Config",

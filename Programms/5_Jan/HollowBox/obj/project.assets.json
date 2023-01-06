@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\HollowBox\\HollowBox.csproj",
+      "projectUniqueName": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\HollowBox\\HollowBox.csproj",
       "projectName": "HollowBox",
-      "projectPath": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\HollowBox\\HollowBox.csproj",
+      "projectPath": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\HollowBox\\HollowBox.csproj",
       "packagesPath": "C:\\Users\\Karan Khamkar\\.nuget\\packages\\",
-      "outputPath": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\HollowBox\\obj\\",
+      "outputPath": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\HollowBox\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Karan Khamkar\\AppData\\Roaming\\NuGet\\NuGet.Config",

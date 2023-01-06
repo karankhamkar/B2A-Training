@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\InvertedHalfTraingleOddPattern\\InvertedHalfTraingleOddPattern.csproj",
+      "projectUniqueName": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\InvertedHalfTraingleOddPattern\\InvertedHalfTraingleOddPattern.csproj",
       "projectName": "InvertedHalfTraingleOddPattern",
-      "projectPath": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\InvertedHalfTraingleOddPattern\\InvertedHalfTraingleOddPattern.csproj",
+      "projectPath": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\InvertedHalfTraingleOddPattern\\InvertedHalfTraingleOddPattern.csproj",
       "packagesPath": "C:\\Users\\Karan Khamkar\\.nuget\\packages\\",
-      "outputPath": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\InvertedHalfTraingleOddPattern\\obj\\",
+      "outputPath": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\InvertedHalfTraingleOddPattern\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Karan Khamkar\\AppData\\Roaming\\NuGet\\NuGet.Config",

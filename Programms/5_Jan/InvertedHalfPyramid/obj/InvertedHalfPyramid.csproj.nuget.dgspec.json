@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\InvertedHalfPyramid\\InvertedHalfPyramid.csproj": {}
+    "C:\\Training\\B2A-Training\\Programms\\5_Jan\\InvertedHalfPyramid\\InvertedHalfPyramid.csproj": {}
   },
   "projects": {
-    "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\InvertedHalfPyramid\\InvertedHalfPyramid.csproj": {
+    "C:\\Training\\B2A-Training\\Programms\\5_Jan\\InvertedHalfPyramid\\InvertedHalfPyramid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\InvertedHalfPyramid\\InvertedHalfPyramid.csproj",
+        "projectUniqueName": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\InvertedHalfPyramid\\InvertedHalfPyramid.csproj",
         "projectName": "InvertedHalfPyramid",
-        "projectPath": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\InvertedHalfPyramid\\InvertedHalfPyramid.csproj",
+        "projectPath": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\InvertedHalfPyramid\\InvertedHalfPyramid.csproj",
         "packagesPath": "C:\\Users\\Karan Khamkar\\.nuget\\packages\\",
-        "outputPath": "C:\\Training\\B2A-Training\\task 3 Wpf demo\\Programms\\InvertedHalfPyramid\\obj\\",
+        "outputPath": "C:\\Training\\B2A-Training\\Programms\\5_Jan\\InvertedHalfPyramid\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karan Khamkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
