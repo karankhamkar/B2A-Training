@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfComboBox", "WpfComboBox\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfComboBoxMVVM", "WpfComboBoxMVVM\WpfComboBoxMVVM.csproj", "{4F40CA1F-2B5D-43A3-8F50-17DEA57A1D71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankMVVM", "BankMVVM\BankMVVM.csproj", "{9305F5F3-4C28-40EE-9632-73D97F473FAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankMVVM", "BankMVVM\BankMVVM.csproj", "{9305F5F3-4C28-40EE-9632-73D97F473FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupplierMVVM", "SupplierMVVM\SupplierMVVM.csproj", "{4ECE0F56-A0B2-4A46-B2C6-219B2C94D756}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{9305F5F3-4C28-40EE-9632-73D97F473FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9305F5F3-4C28-40EE-9632-73D97F473FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9305F5F3-4C28-40EE-9632-73D97F473FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ECE0F56-A0B2-4A46-B2C6-219B2C94D756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECE0F56-A0B2-4A46-B2C6-219B2C94D756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECE0F56-A0B2-4A46-B2C6-219B2C94D756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECE0F56-A0B2-4A46-B2C6-219B2C94D756}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
