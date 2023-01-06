@@ -18,6 +18,7 @@ namespace SupplierMVVM
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
 
         }
+        #region Property
         private int _productCounter = 1;
         private ObservableCollection<SupplierList> _supplierList;
         public ObservableCollection<SupplierList> SupplierList
@@ -110,8 +111,10 @@ namespace SupplierMVVM
                 NotifyPropertyChanged();
             }
         }
+        #endregion
+
         #region Commands
-        
+
         private RelayCommand _addSupplierCommand;
         public RelayCommand AddSupplierCommand
         {

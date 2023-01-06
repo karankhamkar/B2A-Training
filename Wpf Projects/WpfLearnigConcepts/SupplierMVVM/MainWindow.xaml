@@ -89,7 +89,7 @@
                              Margin="10"/>
                 </StackPanel>
                 <StackPanel Grid.Row="2"
-                            Grid.Column="2"
+                            Grid.Column="1"
                             HorizontalAlignment="Center">
                     <Button Content="Add Supplier"
                             Command="{Binding AddSupplierCommand}"
