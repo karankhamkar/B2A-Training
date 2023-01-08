@@ -17,7 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankMVVM", "BankMVVM\BankMV
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SupplierMVVM", "SupplierMVVM\SupplierMVVM.csproj", "{4ECE0F56-A0B2-4A46-B2C6-219B2C94D756}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductMVVM", "ProductMVVM\ProductMVVM.csproj", "{FFD0DF92-DBA0-4697-8716-119775F47E8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductMVVM", "ProductMVVM\ProductMVVM.csproj", "{FFD0DF92-DBA0-4697-8716-119775F47E8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cascading Ecample", "Cascading Ecample", "{181B39D3-828F-4A7B-A31A-5F13CFC1EE1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CascadingProducts", "Products\CascadingProducts.csproj", "{CF49A879-0E17-451A-B1BB-D3314099A71E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,9 +61,16 @@ Global
 		{FFD0DF92-DBA0-4697-8716-119775F47E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFD0DF92-DBA0-4697-8716-119775F47E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFD0DF92-DBA0-4697-8716-119775F47E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF49A879-0E17-451A-B1BB-D3314099A71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF49A879-0E17-451A-B1BB-D3314099A71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF49A879-0E17-451A-B1BB-D3314099A71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF49A879-0E17-451A-B1BB-D3314099A71E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CF49A879-0E17-451A-B1BB-D3314099A71E} = {181B39D3-828F-4A7B-A31A-5F13CFC1EE1B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {51D9BED7-68B7-4096-8EA1-95C104A6A3F1}
