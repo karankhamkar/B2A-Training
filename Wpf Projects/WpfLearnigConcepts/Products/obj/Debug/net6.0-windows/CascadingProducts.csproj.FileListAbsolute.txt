@@ -1,8 +1,3 @@
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\obj\Debug\net6.0-windows\CascadingProducts.csproj.AssemblyReference.cache
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\obj\Debug\net6.0-windows\ProductsView.g.cs
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\obj\Debug\net6.0-windows\App.g.cs
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\obj\Debug\net6.0-windows\CascadingProducts_MarkupCompile.cache
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\obj\Debug\net6.0-windows\CascadingProducts_MarkupCompile.lref
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\bin\Debug\net6.0-windows\CascadingProducts.exe
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\bin\Debug\net6.0-windows\CascadingProducts.deps.json
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\bin\Debug\net6.0-windows\CascadingProducts.runtimeconfig.json
@@ -24,8 +19,13 @@ C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\bin\Debug\net6
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\obj\Debug\net6.0-windows\CascadingProducts.csproj.AssemblyReference.cache
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\obj\Debug\net6.0-windows\ProductView.baml
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\obj\Debug\net6.0-windows\ProductsView.g.cs
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\obj\Debug\net6.0-windows\ProductView.g.cs
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\obj\Debug\net6.0-windows\App.g.cs
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\obj\Debug\net6.0-windows\CascadingProducts_MarkupCompile.cache
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\obj\Debug\net6.0-windows\CascadingProducts_MarkupCompile.lref
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\obj\Debug\net6.0-windows\ProductsView.baml
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\obj\Debug\net6.0-windows\CascadingProducts.g.resources
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\Products\obj\Debug\net6.0-windows\CascadingProducts.GeneratedMSBuildEditorConfig.editorconfig
