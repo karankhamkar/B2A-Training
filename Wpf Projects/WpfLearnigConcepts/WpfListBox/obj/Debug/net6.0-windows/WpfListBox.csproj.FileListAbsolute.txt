@@ -21,26 +21,3 @@ C:\Training\B2A-Training\task 3 Wpf demo\WpfLearnigConcepts\WpfListBox\obj\Debug
 C:\Training\B2A-Training\task 3 Wpf demo\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\WpfListBox.pdb
 C:\Training\B2A-Training\task 3 Wpf demo\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\WpfListBox.genruntimeconfig.cache
 C:\Training\B2A-Training\task 3 Wpf demo\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\ref\WpfListBox.dll
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\bin\Debug\net6.0-windows\WpfListBox.exe
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\bin\Debug\net6.0-windows\WpfListBox.deps.json
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\bin\Debug\net6.0-windows\WpfListBox.runtimeconfig.json
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\bin\Debug\net6.0-windows\WpfListBox.dll
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\bin\Debug\net6.0-windows\WpfListBox.pdb
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\bin\Debug\net6.0-windows\Castle.Core.dll
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\bin\Debug\net6.0-windows\FakeItEasy.dll
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\WpfListBox.csproj.AssemblyReference.cache
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\MainWindow.baml
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\MainWindow.g.cs
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\App.g.cs
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\WpfListBox_MarkupCompile.cache
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\WpfListBox.g.resources
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\WpfListBox.GeneratedMSBuildEditorConfig.editorconfig
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\WpfListBox.AssemblyInfoInputs.cache
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\WpfListBox.AssemblyInfo.cs
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\WpfListBox.csproj.CoreCompileInputs.cache
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\WpfListBox.csproj.CopyComplete
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\WpfListBox.dll
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\refint\WpfListBox.dll
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\WpfListBox.pdb
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\WpfListBox.genruntimeconfig.cache
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfListBox\obj\Debug\net6.0-windows\ref\WpfListBox.dll

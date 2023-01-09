@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ListOfSuppliers</id>
+    <version>1.0.0</version>
+    <authors>ListOfSuppliers</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\ListOfSuppliers\bin\Debug\net6.0-windows\ListOfSuppliers.runtimeconfig.json" target="lib\net6.0-windows7.0\ListOfSuppliers.runtimeconfig.json" />
+    <file src="C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\ListOfSuppliers\bin\Debug\net6.0-windows\ListOfSuppliers.dll" target="lib\net6.0-windows7.0\ListOfSuppliers.dll" />
+  </files>
+</package>

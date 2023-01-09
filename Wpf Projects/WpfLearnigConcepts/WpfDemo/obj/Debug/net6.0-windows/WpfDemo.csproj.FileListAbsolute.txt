@@ -21,26 +21,3 @@ C:\Training\B2A-Training\task 3 Wpf demo\WpfLearnigConcepts\WpfDemo\obj\Debug\ne
 C:\Training\B2A-Training\task 3 Wpf demo\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\WpfDemo.pdb
 C:\Training\B2A-Training\task 3 Wpf demo\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\WpfDemo.genruntimeconfig.cache
 C:\Training\B2A-Training\task 3 Wpf demo\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\ref\WpfDemo.dll
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\bin\Debug\net6.0-windows\WpfDemo.exe
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\bin\Debug\net6.0-windows\WpfDemo.deps.json
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\bin\Debug\net6.0-windows\WpfDemo.runtimeconfig.json
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\bin\Debug\net6.0-windows\WpfDemo.dll
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\bin\Debug\net6.0-windows\WpfDemo.pdb
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\WpfDemo.csproj.AssemblyReference.cache
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\Functions\Demo.g.cs
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\MainWindow.g.cs
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\App.g.cs
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\WpfDemo_MarkupCompile.cache
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\WpfDemo_MarkupCompile.lref
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\Functions\Demo.baml
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\MainWindow.baml
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\WpfDemo.g.resources
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\WpfDemo.GeneratedMSBuildEditorConfig.editorconfig
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\WpfDemo.AssemblyInfoInputs.cache
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\WpfDemo.AssemblyInfo.cs
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\WpfDemo.csproj.CoreCompileInputs.cache
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\WpfDemo.dll
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\refint\WpfDemo.dll
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\WpfDemo.pdb
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\WpfDemo.genruntimeconfig.cache
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\WpfDemo\obj\Debug\net6.0-windows\ref\WpfDemo.dll

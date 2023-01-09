@@ -1,9 +1,3 @@
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\obj\Debug\net6.0-windows\SupplierCascading.csproj.AssemblyReference.cache
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\obj\Debug\net6.0-windows\MainView.g.cs
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\obj\Debug\net6.0-windows\View\SupplierView.g.cs
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\obj\Debug\net6.0-windows\App.g.cs
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\obj\Debug\net6.0-windows\SupplierCascading_MarkupCompile.cache
-C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\obj\Debug\net6.0-windows\SupplierCascading_MarkupCompile.lref
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\bin\Debug\net6.0-windows\SupplierCascading.exe
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\bin\Debug\net6.0-windows\SupplierCascading.deps.json
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\bin\Debug\net6.0-windows\SupplierCascading.runtimeconfig.json
@@ -25,6 +19,12 @@ C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\bin\D
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\obj\Debug\net6.0-windows\SupplierCascading.csproj.AssemblyReference.cache
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\obj\Debug\net6.0-windows\MainView.g.cs
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\obj\Debug\net6.0-windows\View\SupplierView.g.cs
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\obj\Debug\net6.0-windows\App.g.cs
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\obj\Debug\net6.0-windows\SupplierCascading_MarkupCompile.cache
+C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\obj\Debug\net6.0-windows\SupplierCascading_MarkupCompile.lref
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\obj\Debug\net6.0-windows\MainView.baml
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\obj\Debug\net6.0-windows\View\SupplierView.baml
 C:\Training\B2A-Training\Wpf Projects\WpfLearnigConcepts\SupplierCascading\obj\Debug\net6.0-windows\SupplierCascading.g.resources
